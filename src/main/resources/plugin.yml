@@ -1,0 +1,5 @@
+main: me.indian.deathskulls.DeathSkulls
+name: DeathSkulls
+author: IndianPL
+version: '${project.version}'
+api: [ "1.0.14" ]

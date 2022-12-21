@@ -1,0 +1,6 @@
+#Skull setings
+#Skull icon
+Skull-icon: "&lSkull&r "
+#Players witch skulls
+SkullPlayers:
+  - ""
